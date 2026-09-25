@@ -11,7 +11,7 @@ Maintained by Seungsoo Kim on behalf of the Choi Lab.
 
 Dataset documentation lives with each dataset:
 
-- KOVA3: https://github.com/KuChoiLab/kova3
+- KOVA3: https://github.com/ku-choi-lab/kova3
 
 ## Running the notebooks
 
